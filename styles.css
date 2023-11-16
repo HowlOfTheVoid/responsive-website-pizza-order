@@ -1,0 +1,35 @@
+label {
+    display: block;
+    margin: 10px auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-indent: 40px;
+}
+
+form {
+    width: 70%;
+    min-width: 300px;
+    max-width: 600px;
+    margin: 10px auto;
+    padding: 5px 20px;
+    background-color: rgb(120,75,0);
+    color: rgb(240,240,240);
+    font-family: Arial;
+}
+
+textarea {
+    width: 100%;
+    background-color: rgb(80,60,0);
+    border-color: rgb(80,60,0);
+    color: rgb(240,240,240);
+    font-family: Times New Roman;
+}
+
+body {
+    background-color: rgb(240,150,0);
+}
